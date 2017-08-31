@@ -113,6 +113,7 @@ p {
 .section-btn:hover {
   background: #ffffff;
   color: #000000;
+  outline: none;
 }
 
 /*service section*/
